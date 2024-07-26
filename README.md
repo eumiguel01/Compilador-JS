@@ -1,4 +1,4 @@
-<h1 align="center">PROJETO - Compilador de JavaScript</h1>
+<h1 align="center">PROJETO - Compilador de JavaScript 💻</h1>
 
 ## :memo: Descrição:
 Desenvolvi um compilador de JavaScript para a Web.
